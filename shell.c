@@ -1,10 +1,3 @@
-/*
-    Code written by:
-    Stefania Douliaka, 00974
-    Panagiotis Karoutsos, 02034
-    Olga Vasileiou, 01691
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/wait.h>                                               
